@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+.env
+
+# Logs
+*.log
+logs/
+
+# Compilados
+dist/
+build/
+
+# Sistema operativo
+.DS_Store
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+
+# Otros
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
